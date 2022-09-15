@@ -1,1 +1,1 @@
-# WEISS-WKL34-Thermal-Chamber-
+# WEISS-WKL34 (Thermal Chamber)
